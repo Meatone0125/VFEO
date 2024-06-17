@@ -1,6 +1,4 @@
-# VFEO
-
-## Point Cloud Semantic Segmentation by Adaptively Fusing Information with Varying Distances
+# Point Cloud Semantic Segmentation by Adaptively Fusing Information with Varying Distances
 by Zefeng Jiang, Baochen Yao, Kangkang Song, Xiaojie Qiu, and Chengbin Peng, details are in [paper]()
 
 
