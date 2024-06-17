@@ -21,12 +21,12 @@ Download [S3DIS Dataset](http://buildingparser.stanford.edu/dataset.html) and ex
   conda install pytorch==1.11.0
   ```
 
-Train
+### Train
 ```
 python learning/main.py
 ```
 
-Test
+### Test
 ```
 python learning/main.py --epochs -1 --resume RESUME
 ```
