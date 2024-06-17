@@ -3,10 +3,10 @@ Download [S3DIS Dataset](http://buildingparser.stanford.edu/dataset.html) and ex
 
 Train
 ```
-python main.py --epochs 350
+python learning/main.py --epochs 350
 ```
 
 Test
 ```
-python main.py --epochs -1 --resume RESUME
+python learning/main.py --epochs -1 --resume RESUME
 ```
