@@ -39,5 +39,11 @@ python learning/main.py --epochs -1 --resume RESUME
 ```
 ### Citation:
 ```
- 
+ @article{jiang2024point,
+  title={Point Cloud Semantic Segmentation by Adaptively Fusing Information With Varying Distances},
+  author={Jiang, Zefeng and Yao, Baochen and Song, Kangkang and Qiu, Xiaojie and Peng, Chengbin},
+  journal={IEEE Signal Processing Letters},
+  year={2024},
+  publisher={IEEE}
+}
 ```
